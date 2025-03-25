@@ -1,1 +1,3 @@
 # Myntra_clone
+
+This Myntra clone is a responsive e-commerce web application built using HTML, CSS, and JavaScript, replicating key features of the Myntra fashion platform, including a dynamic homepage with navigation, product listings with filters, detailed product pages, a functional shopping cart (using localStorage), and user authentication forms. The project follows a clean structure with separate files for styling, scripting, and pages, ensuring modularity and scalability. While currently frontend-only, it lays the foundation for future enhancements like backend integration, payment processing, and advanced user features, serving as a practical demonstration of modern web development techniques in creating an e-commerce interface.
